@@ -1,7 +1,3 @@
-from graphviz import view
-from numpy import short
-import torch
-import torch.nn.functional as F
 import torch.nn as nn
 
 class Residual_CNN(nn.Module):
@@ -70,13 +66,9 @@ class Residual_CNN(nn.Module):
 			nn.Sigmoid()							#pytroch의 cross entropy loss는 log_softmax + NLL_loss이므로 주석처리 				
 		)
 
-	
-
-
 		self.relu=nn.ReLU()
+
 	def residual_block(self,current_layer,shortcut):
-		if shortcut.shape[1] != current_layer.shape[1]:
-			shortcut
 		return current_layer+shortcut
 
 
