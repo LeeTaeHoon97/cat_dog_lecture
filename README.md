@@ -3,7 +3,7 @@ resnet을 이용한 개와 고양이 분류모델 프로젝트
 
 dataset : https://www.kaggle.com/datasets/tongpython/cat-and-dog?resource=download
 
-# 강의 계획서
+<!-- # 강의 계획서
 ## 강좌명
 Pytorch로 ResNet 구현하기
 ## 강의 목표
@@ -38,7 +38,7 @@ Loss Function 구현
 
 학습 코드 구현
 
-학습 및 결과 확인
+학습 및 결과 확인 -->
 
 ![화면 캡처 2023-03-21 234224](https://user-images.githubusercontent.com/59239082/226642030-2e4e4d72-2392-4605-88b6-0e7867c8627d.jpg)
 
