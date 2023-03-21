@@ -27,9 +27,11 @@ Pytorch로 ResNet 구현하기
  ResNet 모델 구조 리뷰
  
  Pytorch의 Binary Cross Entropy Loss function 리뷰
- 
- 데이터셋 구축
-### 2
+
+### 2 
+
+데이터셋 구축
+
 Resnet모델 구조를 참고한 모델 구현
 
 Loss Function 구현
@@ -37,3 +39,7 @@ Loss Function 구현
 학습 코드 구현
 
 학습 및 결과 확인
+
+![화면 캡처 2023-03-21 234224](https://user-images.githubusercontent.com/59239082/226642030-2e4e4d72-2392-4605-88b6-0e7867c8627d.jpg)
+
+
